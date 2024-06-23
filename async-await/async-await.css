@@ -1,0 +1,22 @@
+body {
+  background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+}
+.all {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#fetchButton {
+  background-color: #f69d3c;
+  padding: 10px;
+  border-radius: 10%;
+  cursor: pointer;
+  margin-top: 40px;
+}
+
+#dataContainer {
+  margin: 20px;
+  /* padding: 10px; */
+  /* border: 2px solid green; */
+  background-color: wheat;
+}
